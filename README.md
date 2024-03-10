@@ -37,7 +37,7 @@ Sino copiar esta URL y pegarla en el navegador: `http://localhost:3000`
 # Despliegue
 
 La pagina esta adaptada para que se visualice correctamente en todos los dispositivos.
-
+El proyecto fue desplegado en Vercel para navegarlo. https://d-s-supply-react-proy.vercel.app/ 
 
 
 
